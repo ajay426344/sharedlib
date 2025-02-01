@@ -1,1 +1,1 @@
-some text
+def worker = "worker-1" // Define worker before using it
